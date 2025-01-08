@@ -40,7 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tatayeon"/>
 
 ## 📖 My blog
-<a href="[https://velog.io/@tatayeon/posts](https://velog.io/@tatayeon/posts)">
+<a href="https://velog.io/@tatayeon/posts">
   <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" style="height: 30px; margin: 5px;"/>
 </a>
 
