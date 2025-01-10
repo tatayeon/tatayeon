@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" style="height: 30px; margin: 5px;">
 </td>
 <td align="center">
- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" style="height: 30px; margin: 5px;"></br>
+ <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=Nest.js&logoColor=white" style="height: 30px; margin: 5px;"></br>
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" style="height: 30px; margin: 5px;" />
  <td>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="height: 30px; margin: 5px;"><br/>
