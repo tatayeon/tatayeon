@@ -22,7 +22,7 @@
      </td>
      <td align="center">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="height: 30px; margin: 5px;"><br>
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" style="height: 30px; margin: 5px;">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" style="height: 30px; margin: 6px;">
 </td>
 <td align="center">
  <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=Nest.js&logoColor=white" style="height: 30px; margin: 5px;"></br>
